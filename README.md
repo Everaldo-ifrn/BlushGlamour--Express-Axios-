@@ -1,6 +1,7 @@
 # BlushGlamour - Express+Axios
 
 ORIENTAÇÕES
+
 No Terminal 
 1. npm init -y
 2. npm install express body-parser axios
