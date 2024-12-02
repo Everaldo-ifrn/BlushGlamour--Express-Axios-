@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: RedHatDisplay;
+    background: #F9A8C8;
+}
+@font-face {
+    font-family: RedHatDisplay;
+    /*UTILIZANDO SEM FLASK*/
+    src: url('/RedHatDisplay/RedHatDisplay-VariableFont_wght.ttf') format('truetype');
+    /*UTILIZANDO COM FLASK*/
+}
+.inicio {
+    text-align: center;
+}
